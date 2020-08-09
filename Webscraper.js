@@ -14,11 +14,6 @@ if (match && match[2].length == 11) {
 }
 }
 
-//urls to test
-let urls = ['https://www.youtube.com/watch?v=MAlSjtxy5ak','https://www.youtube.com/watch?v=MAlSjtxy5ak','https://www.youtube.com/watch?v=MAlSjtxy5ak'];
-// Fill in youtube Ids here to test
-
-
 // Fill in youtube Ids here
 let youtubeIds = ["xFv_Hl4B83A", 'kyLxTdsT8ws', '_29dz7qDhQk'];
 
